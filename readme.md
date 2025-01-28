@@ -1,5 +1,7 @@
 # ![Silicon Labs Vulnerabilities](https://raw.githubusercontent.com/Shauryae1337/silabs_cve/refs/heads/main/cve.png)
 
+
+#  10 CVEs Discovered in Silicon Labs Products
 <p align="center">
   <img src="https://img.shields.io/badge/CVEs-10-red?style=for-the-badge&logo=cve" alt="10 CVEs Discovered">
   <img src="https://img.shields.io/badge/Severity-High-critical?style=for-the-badge&logo=alert" alt="High Severity">
@@ -10,7 +12,7 @@
 ---
 
 ## Overview
-🎯 This repository highlights my contribution as a **security researcher** in uncovering **10 critical DLL hijacking vulnerabilities** in Silicon Labs products. These vulnerabilities, caused by **uncontrolled search paths**, could lead to **privilege escalation** and **arbitrary code execution**, posing significant risks to system security.
+🎯 This repository highlights my contribution as a **security researcher** in uncovering vulnerabilities in Silicon Labs products. These vulnerabilities, caused by **uncontrolled search paths**, could lead to **Execution of arbitrary files with elevated privileges** , posing significant risks to system security.
 
 ---
 
@@ -69,12 +71,10 @@ Special thanks to Silicon Labs for supporting the responsible disclosure process
 ---
 
 ## 📚 References
-- [CVE-2024-9490 on CVE.org](https://www.cve.org/CVERecord?id=CVE-2024-9490)  
-- [Silicon Labs Security Page](https://www.silabs.com/security)  
-- [Silicon Labs Technical Support](https://www.silabs.com/support)  
+- [Silicon Labs Advisory]([https://www.silabs.com/security](https://community.silabs.com/068Vm00000JUQwd))  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif" alt="Stay Secure!" width="200"/>
+  <img src="https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif" alt="Stay Secure!" width="600"/>
 </p>
