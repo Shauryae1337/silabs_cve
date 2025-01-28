@@ -73,7 +73,7 @@ Special thanks to Silicon Labs for supporting the responsible disclosure process
 - [Silicon Labs Advisory](https://community.silabs.com/068Vm00000JUQwd)  
 
 ---
-
+## 📚 POV | Security Researchers after getting 10 CVEs :
 <p align="center">
-  <img src="https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif" alt="Stay Secure!" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGgzeWw1dzY2dDh2bW9mcG5saDNpdXFnNWk2Zm14cmNlbXVpOGh4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4mbH4lKBhAPFU4/giphy.gif" alt="Stay Secure!" width="600"/>
 </p>
