@@ -71,7 +71,7 @@ Special thanks to Silicon Labs for supporting the responsible disclosure process
 ---
 
 ## 📚 References
-- [Silicon Labs Advisory](https://www.silabs.com/security](https://community.silabs.com/068Vm00000JUQwd)  
+- [Silicon Labs Advisory](https://community.silabs.com/068Vm00000JUQwd)  
 
 ---
 
