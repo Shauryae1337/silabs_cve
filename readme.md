@@ -19,8 +19,7 @@
 ## 🚨 Vulnerability Details
 
 ### Key Highlights:
-- **Researcher Name:** Shaurya  
-- **Collaborators:** Sahil Shah, Ramya Shah, Vidhi Patel  
+- **Researchers** Shaurya , Sahil Shah, Ramya Shah, Vidhi Patel  
 - **Published CVEs:**  
   1. **[CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490)**: DLL hijacking in Silicon Labs IDE installer  
      - Researchers: Shaurya, Sahil Shah  
