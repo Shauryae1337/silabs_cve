@@ -1,4 +1,4 @@
-# ![Silicon Labs Vulnerabilities](https://via.placeholder.com/1200x300.png?text=10+Critical+CVEs+Discovered+in+Silicon+Labs+Products)
+# ![Silicon Labs Vulnerabilities](https://raw.githubusercontent.com/Shauryae1337/silabs_cve/refs/heads/main/cve.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/CVEs-10-red?style=for-the-badge&logo=cve" alt="10 CVEs Discovered">
